@@ -1,0 +1,14 @@
+.text-bg-light {
+  color: #000 !important;
+  background-color: rgb(239, 238, 238) !important;
+}
+
+.image-logo {
+  max-width: 60px;
+  max-height: 60px;
+}
+
+.heroes-logo {
+  width: 100px;
+  height: 100px;
+}
